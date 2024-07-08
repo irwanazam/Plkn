@@ -1,0 +1,6 @@
+@Mod.Plkn.Web.ApiServer_HostAddress = http://localhost:5184
+
+GET {{Mod.Plkn.Web.ApiServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
